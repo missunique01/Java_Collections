@@ -14,6 +14,9 @@ public class ArrayiListTest {
 		al.add("Nidhi");
 		al.add("Vandana");
 		al.add("Poonam");
+		al.add("Aakaash");
+		al.add("VandeBharath");
+		al.add("Express");
 		//Size of the ArrayList object.
 		System.out.println(al.size());  
 		
